@@ -1,0 +1,3 @@
+Restoring assets directory from commit 42d002189785d62af2813729b1f777d37d8b027e
+
+(This is a placeholder commit created by Copilot to restore the assets directory to the previous state.)
