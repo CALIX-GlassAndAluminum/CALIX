@@ -4,7 +4,15 @@ const projects = [
   { image: "assets/png10.PNG", tag: "Residential", title: "Glass & aluminum integration", detail: "Sliding doors, fixed windows, and coordinated glass elements for a multi-storey home." },
   { image: "assets/png11.PNG", tag: "Commercial", title: "Cladding & window systems", detail: "Multi-color ACP cladding paired with aluminum awning windows and fixed glass panels." },
   { image: "assets/png 16.PNG", tag: "Interior", title: "Built-in aluminum wardrobe", detail: "Frosted glass, wood-look aluminum framing, fixed cabinetry, and illuminated display shelving." },
-  { image: "assets/png 14.PNG", tag: "Interior", title: "Frameless shower enclosure", detail: "Clear frameless glass with refined chrome hardware for a clean, open bathroom finish." }
+  { image: "assets/png 14.PNG", tag: "Interior", title: "Frameless shower enclosure", detail: "Clear frameless glass with refined chrome hardware for a clean, open bathroom finish." },
+  { image: "assets/pc1.jfif", tag: "Residential", title: "Full-height sliding glass doors", detail: "Dark-finished aluminum frames with full-height glass panels for a clean residential opening." },
+  { image: "assets/pc2.jfif", tag: "Residential", title: "Custom aluminum screen door", detail: "A fitted dark aluminum door with integrated screenwork and a durable lower panel." },
+  { image: "assets/pc3.jfif", tag: "Residential", title: "Outdoor architectural glass", detail: "Clear exterior glass work integrated beneath a covered residential terrace." },
+  { image: "assets/pc4.jfif", tag: "Residential", title: "Floor-to-ceiling sliding doors", detail: "Large-format sliding glass panels in a dark aluminum frame for a bright, modern interior." },
+  { image: "assets/png1.PNG", tag: "Commercial", title: "Restaurant facade finishing", detail: "Coordinated storefront openings and exterior architectural finishing for a commercial facade." },
+  { image: "assets/pn5.PNG", tag: "Commercial", title: "Multi-storey facade systems", detail: "Window assemblies and architectural exterior elements coordinated across a multi-level facade." },
+  { image: "assets/pn 17.PNG", tag: "Interior", title: "Frosted sliding door system", detail: "Wood-look aluminum framing with frosted panels for privacy and a warm interior finish." },
+  { image: "assets/png 15.PNG", tag: "Interior", title: "Glass stair feature", detail: "Clear architectural glass paired with a custom timber-and-metal stair for an open interior treatment." }
 ];
 
 const lightbox = document.querySelector(".lightbox");
